@@ -12,7 +12,7 @@ On August 6, 1945, the American bomber Enola Gay dropped a five-ton bomb over th
 
 ## Built with :
 1. Open GL (Graphic Library) :
-     OpenGL is a cross-language, cross-platform application programming interface for rendering 2D and 3D vector graphics. The API is typically used to interact with a graphics processing unit, to achieve hardware-accelerated rendering.
+     OpenGL (Open Graphics Library) is the computer industry's standard API for defining 2-D and 3-D graphic images. OpenGL allows new hardware innovations to be accessible through the API via the OpenGL extension mechanism. It is used in CAD (Computer-aided design), virtual reality, video games, and flight simulation.
      
 2. Written in C++ language
 
