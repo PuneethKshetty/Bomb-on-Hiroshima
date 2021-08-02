@@ -10,3 +10,10 @@ Since 1940, the United States had been working on developing an atomic weapon, a
 On August 6, 1945, the American bomber Enola Gay dropped a five-ton bomb over the Japanese city of Hiroshima. A blast equivalent to the power of 15,000 tons of TNT reduced four square miles of the city to ruins and immediately killed 80,000 people. Tens of thousands more died in the following weeks from wounds and radiation poisoning. Three days later, another bomb was dropped on the city of Nagasaki, killing nearly 40,000 more people. A few days later, Japan announced its surrender.
 
 
+## Built with :
+ 1. Open GL (Graphic Library)
+     OpenGL is a cross-language, cross-platform application programming interface for rendering 2D and 3D vector graphics. The API is typically used to interact with a graphics processing unit, to achieve hardware-accelerated rendering.
+     
+ 2. Written in C++ language
+
+
