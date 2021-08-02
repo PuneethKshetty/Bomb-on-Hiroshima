@@ -11,9 +11,16 @@ On August 6, 1945, the American bomber Enola Gay dropped a five-ton bomb over th
 
 
 ## Built with :
- 1. Open GL (Graphic Library)
+1. Open GL (Graphic Library) :
      OpenGL is a cross-language, cross-platform application programming interface for rendering 2D and 3D vector graphics. The API is typically used to interact with a graphics processing unit, to achieve hardware-accelerated rendering.
      
- 2. Written in C++ language
+2. Written in C++ language
 
+## How to use my code :
+* Firstly, Give a star to my Project ⭐
+* Second, Fork my project
+* That's It , Now implement it on your code
 
+## Contribution :
+
+   Contributions are allowed :)       
